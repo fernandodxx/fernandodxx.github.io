@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Hello wolrd"
 date:   2024-09-08
 categories: [Blogging, Tutorial]
